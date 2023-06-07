@@ -28,7 +28,7 @@ const Header = () => {
               <span>LOG IN</span>
               </Nav.Link>
             <Nav.Link href="/register">
-              <button className="rounded-full bg-rose-600 p-3 d-flex justify-center items-center text-slate-50">
+              <button className="rounded-full bg-rose-600 p-3 d-flex justify-center items-center text-slate-50 hover:bg-red-500">
                  <span>ADD LISTING</span>
                 <AiOutlineRight  />
               </button>

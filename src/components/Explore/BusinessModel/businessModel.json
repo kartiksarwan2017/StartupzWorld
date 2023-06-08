@@ -1,0 +1,28 @@
+{
+    "businessModel": [
+        {
+            "title": "B2B - Business To Business"
+        },
+        {
+            "title": "B2C - Business To Consumer"
+        },
+        {
+            "title": "B2B2C - Business To Business To Customer"
+        },
+        {
+            "title": "C2C - Customer To Customer"
+        },
+        {
+            "title": "C2B - Customer To Business"
+        },
+        {
+            "title": "B2A - Business To Administration"
+        },
+        {
+            "title": "C2A - Customer To Administration"
+        },
+        {
+            "title": "Other"
+        }
+    ]
+}

@@ -1,0 +1,73 @@
+{
+    "category":  [
+        {
+            "imgUrl": "https://cdn.sketchbubble.com/pub/media/catalog/product/optimized1/e/8/e802c88d1d3f38d438fa62aec71f4fbe84065de1f219c473940bfa46597edf98/hr-technology-mc-slide1.png",
+            "name": "Human Resource Tech"
+        },
+        { 
+            "imgUrl": "https://media.geeksforgeeks.org/wp-content/cdn-uploads/20200205193607/How-Machine-Learning-and-Artificial-Intelligence-Will-Impact-Global-Industries-in-2020.png",
+           "name": "Artificial Intelligence (AI) & Machine Learning (ML)"
+    
+        },
+        {
+            "imgUrl": "https://w7.pngwing.com/pngs/829/473/png-transparent-virtual-reality-augmented-reality-virtuality-mixed-reality-augmented-blue-text-public-relations-thumbnail.png",
+            "name": "Augmented Reality (AR) & Virtual Reality (VR)"
+    
+        },
+        {
+            "imgUrl": "https://w7.pngwing.com/pngs/25/431/png-transparent-human-resource-management-system-%E0%B9%87hr-text-photography-human-resource-management.png",
+            "name": "Human Resource Tech"
+    
+        },
+        {
+            "imgUrl": "https://static.vecteezy.com/system/resources/previews/013/976/243/original/data-safety-concept-biometric-access-biometrics-verification-and-identification-password-log-in-authorization-fingerprint-scanning-male-character-protects-his-smartphone-cyber-security-vector.jpg",
+            "name": "Cybersecurity & BioMetrics "
+    
+        },
+        {
+            "imgUrl": "https://kriptomat.io/wp-content/uploads/2021/12/blockchain.png",
+            "name": "Blockchain"
+    
+        },
+        {
+            "imgUrl": "https://e7.pngegg.com/pngimages/292/543/png-clipart-robot-humanoid-robot-military-robot-artificial-intelligence-robotics-electronics-desktop-wallpaper.png",
+            "name": "Robotics"
+    
+        },
+        {
+            "imgUrl": "https://w1.pngwing.com/pngs/338/289/png-transparent-bank-online-shopping-ecommerce-online-and-offline-goods-internet-online-marketplace-purchasing-thumbnail.png",
+            "name": "E-commerce & Marketplace"
+    
+        },
+        {
+            "imgUrl": "https://www.eginnovations.com/blog/wp-content/uploads/2021/11/SaaS-vs-PaaS-vs-IaaS_-Examples-Differences-How-To-Choose-Banner.png",
+            "name": "Enterprise Software & Cloud Computing (SaaS, PaaS, IaaS, Etc)"
+    
+        },
+        {
+            "imgUrl": "https://www.pngitem.com/pimgs/m/112-1128181_software-development-png-transparent-images-software-development-images.png",
+            "name": "Software Development"
+    
+        },
+        {
+            "imgUrl": "https://www.pngitem.com/pimgs/m/237-2379257_internet-of-things-illustration-benefits-of-iot-hd.png",
+            "name": "Internet of Things"
+    
+        },
+        {
+            "imgUrl": "https://w7.pngwing.com/pngs/239/275/png-transparent-data-center-environmentally-friendly-sustainability-renewable-energy-technology-technology-electronics-waste-grass-thumbnail.png",
+            "name": "Energy Tech"
+    
+        },
+        {
+            "imgUrl": "https://png.pngitem.com/pimgs/s/243-2430290_transparent-school-technology-clipart-educational-technology-clip-art.png",
+            "name": "Education Technologies"
+    
+        },
+        {
+            "imgUrl": "https://media.istockphoto.com/id/1348114404/vector/smart-farm-or-agritech-vector-illustration-banner-with-connected-icons-related-to-smart.jpg?s=612x612&w=0&k=20&c=H2UhEWV0x4x10TKRKS1-A75QsjEiz4dcAIIPRAR_b2U=",
+            "name": "Agriculture Technology"
+    
+        }
+    ]
+}

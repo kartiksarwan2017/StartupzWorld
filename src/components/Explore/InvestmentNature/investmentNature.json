@@ -1,0 +1,22 @@
+{
+    "investmentNature": [
+        {
+            "title": "Equity Dilution"
+        },
+        {
+            "title": "Debt Funding"
+        },
+        {
+            "title": "Convertile Debt"
+        },
+        {
+            "title": "Crowd-Funding"
+        },
+        {
+            "title": "CSR"
+        },
+        {
+            "title": "All"
+        }
+    ]
+}

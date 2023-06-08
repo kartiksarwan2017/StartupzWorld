@@ -1,0 +1,37 @@
+{
+    "fundingType": [
+        {
+            "title": "Crowd Funded"
+        },
+        {
+            "title": "Per-Seed Funded"
+        },
+        {
+            "title": "Seed Funded"
+        },
+        {
+            "title": "Series A"
+        },
+        {
+            "title": "Series B"
+        },   
+        {
+            "title": "Series C"
+        },
+        {
+            "title": "Series D"
+        },
+        {
+            "title": "Series E"
+        },
+        {
+            "title": "Series F"
+        },   
+        {
+            "title": "Series G"
+        },   
+        {
+            "title": "Series H"
+        }
+    ]
+}

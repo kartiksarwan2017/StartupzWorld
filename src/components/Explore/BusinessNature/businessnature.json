@@ -1,0 +1,13 @@
+{
+    "businessNature": [
+        {
+            "title": "Service"
+        },
+        {
+            "title": "Product"
+        },
+        {
+            "title": "Both"
+        }
+    ]
+}

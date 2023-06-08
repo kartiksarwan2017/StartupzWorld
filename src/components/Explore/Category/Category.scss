@@ -1,0 +1,29 @@
+.category-container {
+
+    .carousal-container {
+
+        padding: 40px 10px;
+    
+        .card-container {
+            width: 300px;
+            height: 350px;
+            margin: 0 10px;
+            background-color: white;
+            border-radius: 20px;
+            box-shadow: 0 3px 10px rgb(0 0 0 / 0.2);
+    
+            .categoryImg {
+                border-radius: 20px;
+                height: 200px;
+            }
+    
+            .card-body{
+                text-align: center;
+                margin-top: 20px;
+                letter-spacing: 1px;
+            }
+        }
+    }
+}
+
+

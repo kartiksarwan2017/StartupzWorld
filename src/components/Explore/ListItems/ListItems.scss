@@ -1,0 +1,18 @@
+.list-container {
+    margin: 30px 0 20px 40px;
+    display: flex;
+    width: 400;
+    flex-wrap: wrap;
+    gap: 40px;
+    font-size: 20px;
+
+    .card-container {
+        border-radius: 15px;
+        box-shadow: 0 3px 10px rgb(0 0 0 / 0.2);
+    }
+
+    .card-container:hover{ 
+        background-color: rgb(241, 44, 44);
+        color: white;
+    }
+}

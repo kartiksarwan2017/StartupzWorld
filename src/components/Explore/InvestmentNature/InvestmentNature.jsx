@@ -1,6 +1,16 @@
-import React from 'react';
+import React, { useEffect, useState } from 'react';
+import ListItems from '../ListItems/ListItems';
+import data from "./investmentNature.json";
+
 
 const InvestmentNature = () => {
+
+  const [investmentNature, setInvestmentNature] = useState([]);
+
+  useEffect(() => {
+    setInvestmentNature(data.investmentNature);
+  }, []);
+
   return (
     <>
      <div className='investment-nature-container pt-10'>
@@ -8,6 +18,8 @@ const InvestmentNature = () => {
           <h1 className='mr-3'>Explore By</h1> 
           <span className='font-semibold'>Investment Nature</span>
         </div>
+
+        <ListItems arr={investmentNature} />  
      </div>
     </>
   )

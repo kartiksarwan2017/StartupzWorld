@@ -1,15 +1,21 @@
-.navbar-container {
+.header{
 
-    .nav-img {
-        width: 100px;
-        height: 100px;
-        border-radius: 50%;
-        z-index: 1;
-        box-shadow: 0px 5px 10px 0px rgba(204, 24, 24, 0.651); 
+    
+    background: url('../../../public/cool-background.png');
+    background-size: 100%;
+    .navbar-container {
+        .nav-img {
+            width: 100px;
+            height: 100px;
+            border-radius: 50%;
+            z-index: 1;
+            box-shadow: 0px 5px 10px 0px rgba(204, 24, 24, 0.651); 
+        }
+    
+        .nav-links {
+            font-size: 18px;
+            color: rgb(248, 20, 20) !important;
+        }
     }
 
-    .nav-links {
-        font-size: 18px;
-        color: rgb(248, 20, 20) !important;
-    }
 }

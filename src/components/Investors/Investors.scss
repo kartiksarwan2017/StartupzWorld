@@ -1,0 +1,41 @@
+.investor-container {
+
+    margin-bottom: 20rem;
+
+    
+    .heading-container {
+        margin-top: 40px;
+        h1{
+            font-size: 30px;
+            letter-spacing: 1px;
+            text-align: center;
+            font-weight: bold;
+
+        }
+    }
+
+    .investor-details{
+        p{
+            padding: 20px 5rem;
+            font-size: 20px;
+        }
+    }
+
+    .additional-details {
+        p{
+            padding: 20px 5rem;
+            font-size: 20px;
+        }
+    }
+
+    .additional-details-card{
+        margin: 40px;
+        border-right: none;
+        border-left: none;
+        width: 1000px;
+        position: absolute;
+        left: 100px
+       }
+
+   
+}

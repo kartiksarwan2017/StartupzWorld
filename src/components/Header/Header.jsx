@@ -9,7 +9,8 @@ import "./Header.scss";
 const Header = () => {
   return (
     <>
-     <Navbar bg="light" variant="light">
+  <div className='header-container'>
+  <Navbar className='header'>
         <Container className='navbar-container'>
           <Navbar.Brand href="/">
             <img
@@ -36,6 +37,7 @@ const Header = () => {
           </Nav>
         </Container>
       </Navbar>
+  </div>
     </>
   )
 }

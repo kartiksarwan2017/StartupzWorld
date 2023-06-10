@@ -6,6 +6,10 @@
     padding: 100px 0 70px 80px;
     
     .search-bar {
+
+      background-color: white;
+      width: 550px;
+
         .search-input {
     
            > p{ 
@@ -15,7 +19,6 @@
             
            input {
             outline: none;
-            border: 1px solid red;
             width: 27rem;
             padding: 5px;
             font-size: 18px;

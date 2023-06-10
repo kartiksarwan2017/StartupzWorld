@@ -19,7 +19,7 @@ const StartUps = () => {
             <p>Starting a business can be a challenging and rewarding experience, but it can also be a lonely one. That's why we created our platform, to provide a community for startups to connect, collaborate, and grow.</p>
         </div>
 
-        <section className='details-container'>
+        <section className='details-container ml-10'>
            {
             startupdetails.map((item, index) => {
                 return (

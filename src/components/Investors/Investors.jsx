@@ -53,13 +53,13 @@ const Investors = () => {
     <Card.Body className="d-flex gap-x-20">
   <div>
   <Card.Title className="text-4xl">20,956,732</Card.Title>
-        <Card.Text className='text-xl text-zinc-700 font-semibold'>
+        <Card.Text className='text-xl text-zinc-700 font-semibold relative right-20'>
            Registed Startups
         </Card.Text>
    </div>
         <div>
         <Card.Title className="text-4xl">9,050,656</Card.Title>
-        <Card.Text className='text-xl text-zinc-700 font-semibold'>
+        <Card.Text className='text-xl text-zinc-700 font-semibold relative right-20'>
           Investors
         </Card.Text>
         </div>
